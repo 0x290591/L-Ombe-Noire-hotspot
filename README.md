@@ -1,4 +1,4 @@
-# portal
+# L'Ombre Noire Hotspot
 
 Patch pour le portail captif kupiki hotspot (https://github.com/pihomeserver/Kupiki-Hotspot-Script)
 
