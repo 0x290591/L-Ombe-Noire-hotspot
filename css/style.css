@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+body {
+
+    margin: 0;
+    padding: 20px;
+
+    color: #fff;
+    background-color: #000;
+
+    background: 
+    linear-gradient( 
+        rgba(0, 0, 0, 0.85), 
+        rgba(0, 0, 0, 0.85)
+    ), 
+    url(../img/background.jpg) no-repeat center fixed;
+
+    background-size: cover;
+
+}
+
+a {
+    color: inherit;
+}
+
+p {
+    text-align: justify;
+}
+
+#app {
+
+    max-width: 375px;
+    margin: 0 auto;
+
+    text-align: center;
+
+}
+
+#form {
+
+    border-radius: 2px;
+
+    padding: 20px;
+    background-color: #222;
+
+}
+
+#email, #submit {
+
+    width: 100%;
+
+    padding: 10px;
+
+    border: 0;
+    border-radius: 2px;
+
+    font-size: 1rem;
+
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+#email {
+
+    margin-bottom: 10px;
+
+    color: #222;
+    background-color: #fff;
+
+}
+
+#submit {
+    color: #fff;
+    background-color: #333;
+}
