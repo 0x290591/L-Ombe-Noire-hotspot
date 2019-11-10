@@ -7,4 +7,8 @@ Modifications :
 Enregistrement avec uniquement une adresse email puis connexion automatique.
 L'utilisateur est ajouté à freeradius et un profil nommé RESTRICTIONS est automatiquement appliqué. (il faut créer le profil freeradius "RESTRICTIONS" à la main)
 
-Pour fonctionner le kupiki-portal-backend doit être patché avec le dossier patch-kupiki-portal-backend.
+Pour fonctionner le kupiki-portal-backend doit être patché avec le dossier "patch-kupiki-portal-backend" dans "/home/kupiki/kupiki-portal-backend/app/src/".
+
+Pour fonctionner les fihciers du dossier "/usr/share/nginx/portal" doivent être mise à jour avec ce repo
+
+Maksymilian
