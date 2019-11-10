@@ -31,16 +31,25 @@ a {
     color: inherit;
 }
 
-p {
-    text-align: justify;
-}
-
 #app {
 
     max-width: 375px;
     margin: 0 auto;
 
     text-align: center;
+
+}
+
+#alert {
+    
+    line-height: 25px;
+
+    border-radius: 3px;
+
+    font-size: 0.8rem;
+    font-weight: bold;
+
+    background-color: #D32;
 
 }
 
